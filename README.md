@@ -11,6 +11,7 @@ author : Nguyen Anh Quan
 3. Read file "Instruction.txt"
 4. Run file "SPF Application.exe" 
 
+$ 32-bit version : https://github.com/MiG21-5121/SPF-Application-32bit
 @ Contact me : https://www.facebook.com/vn.anhquan
 
 Thank you !
