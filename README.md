@@ -5,7 +5,7 @@ version : 1.0.21 \
 author : Nguyen Anh Quan
 
 
-1. Download file "SPF Application.rar"
+1. Clicking the green "Code" button
 2. Extract file "SPF Application.rar"
 3. Read file "Instruction.txt"
 4. Run file "SPF Application.exe" 
