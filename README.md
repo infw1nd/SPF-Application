@@ -10,8 +10,8 @@ author : Nguyen Anh Quan
 3. Read file "Instruction.txt"
 4. Run file "SPF Application.exe" 
 
-> Note: the number of steps is the total number of cells from starting point to target except for starting point.
-> Contact me : https://www.facebook.com/vn.anhquan
+-Note: the number of steps is the total number of cells from starting point to target except for starting point.
+-Contact me : https://www.facebook.com/vn.anhquan
 
 Thank you !
 
