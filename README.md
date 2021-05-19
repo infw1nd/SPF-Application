@@ -1,7 +1,7 @@
 # SPF-Application
 SHORTED PATH FINDER ON MATRIX  
 
-version : 1.0.21 \
+version : 1.5.21 \
 os : 64-bit Windows \
 author : Nguyen Anh Quan
 
